@@ -18,7 +18,7 @@ function mailDoc(props) {
   });
 
   let mailDetails = {
-    from: "rudrakpatratest@gmail.com",
+    from: "pradeepgurjar8955@gmail.com",
     to: props.email,
     subject: "Patient health report",
     text: "",
